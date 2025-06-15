@@ -10,7 +10,7 @@ Implementation of FFN for predicting avocado ripeness. This project demonstrates
 
 - **Name**: Avocado Ripeness Classification
 - **Source**: https://www.kaggle.com/code/use9009/avocado-ripeness-classification
-- **Size**: [250 samples, 9 features]
+- **Size**: 250 samples, 9 features
 - **Task**: Classification
 
 ## 🛠️  Technologies Used
@@ -43,9 +43,8 @@ Implementation of FFN for predicting avocado ripeness. This project demonstrates
 - Model implementation and training
 - Performance evaluation
 - Key visualizations:
-  - [Visualization 1]
-  - [Visualization 2]
-  - [Visualization 3]
+  - Model loss per epoch
+  - Model accuracy per epoch
 
 
 ---
